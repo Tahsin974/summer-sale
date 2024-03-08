@@ -1,0 +1,38 @@
+.pink{
+    color:#E527B2;
+}
+.btn-pink{
+    background-color:#E527B2;
+    color: white;
+}
+.btn-pink:hover{
+    background-color:#da08a2;
+    color: white;
+}
+.bg-light-yellow{
+    background-color:#F9F6E2;
+}
+.fa-star{
+    color: #FFC107 !important;
+}
+.bg-grey{
+    background-color: rgb(216, 211, 211);
+    border-radius: 10px;
+}
+.text-grey{
+    color:rgb(160, 159, 159) ;
+}
+img{
+    width: 500px;
+    height: auto;
+}
+.card{
+    border-radius: 10px;
+    border-color: white;
+}
+.list-style{
+    list-style: none;
+}
+.mt-4{
+    margin-top: 37px !important;
+}
